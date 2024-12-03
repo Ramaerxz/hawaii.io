@@ -87,16 +87,16 @@ button{
     transition: transform 0.5s;
 }
 .card1{
-    background-image: url(images/pic1.jpg);
+    background-image: url(pic1.jpg);
 }
 .card2{
-    background-image: url(images/pic2.jpeg);
+    background-image: url(pic2.jpeg);
 }
 .card3{
-    background-image: url(images/pic3.jpg);
+    background-image: url(pic3.jpg);
 }
 .card4{
-    background-image: url(images/pic4.jpg);
+    background-image: url(pic4.jpg);
 }
 .card:hover{
     transform: translateY(-10px);
